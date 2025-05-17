@@ -10,8 +10,12 @@ l -> direita
 
 ### Shortcuts
 
-w -> permite pular de palavra em palavra pra frente
-b -> permite pular de palavra em palavra pra trás
+w -> permite pular de palavra em palavra pra frente (início da palavra, primeira letra)
+b -> permite pular de palavra em palavra pra trás (início da palavra, primeira letra)
+e -> permite pular de palavra em palavra pra frente (final de palavra, ultima
+letra)
+ge -> ultima letra da palavra de trás
+
 
 ### Copiar e Colar 
 
@@ -21,8 +25,4 @@ p -> mesma situação de cima, com o texto copiado ele vai colar
 ### Pesquisar 
 
 No Normal mode, só digitar "/{oque quero pesquisar}".
-
-### Copiar
-
-
 
