@@ -8,4 +8,16 @@ j -> baixo
 k -> cima 
 l -> direita
 
+### Copiar e Colar 
+
+y -> no Visual Mode, quando selecionar o texto ele vai Copiar
+p -> mesma situação de cima, com o texto copiado ele vai colar
+
+### Pesquisar 
+
+No Normal mode, só digitar "/{oque quero pesquisar}".
+
+### Copiar
+
+
 
