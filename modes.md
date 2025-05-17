@@ -21,7 +21,7 @@ $ -> move para o final da linha.
 g_ -> move para um caracter não-vazio no final de uma linha
 CTRL+D -> move muitas linhas pra baixo
 CTRL+U -> move muitas linhas pra cima
-NUM+h ou l -> escolhe a quantidade de casas que você quer andar pros dois lados
+{operation}{quantity}{motion} -> faz a operação que você desejar, com a quantidade que desejar, usando o motion que desejar, por exemplo (d2w) que deleta tuas letras
 
 ### Copiar e Colar 
 
@@ -34,3 +34,5 @@ No modo normal, é só digitar /{oque quer pesquisar}.
 
   const victor = "de lexsa";
   console.log(victor);
+
+iniciando meus estudos de motion no Neovim.
