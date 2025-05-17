@@ -15,6 +15,7 @@ d2w (delete 2 words)
     - g~ -> toggle case 
     - d -> delete
     - p -> paste
-     
 
+salve bom dia como você está nesse belo dia.
 
+comando "c/{oque quiser}", não entendi oque ele faz direito, mas ta suave. 
