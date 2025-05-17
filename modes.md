@@ -8,6 +8,11 @@ j -> baixo
 k -> cima 
 l -> direita
 
+### Shortcuts
+
+w -> permite pular de palavra em palavra pra frente
+b -> permite pular de palavra em palavra pra trás
+
 ### Copiar e Colar 
 
 y -> no Visual Mode, quando selecionar o texto ele vai Copiar
