@@ -8,21 +8,31 @@ j -> baixo
 k -> cima 
 l -> direita
 
-### Shortcuts
+## Shortcuts
 
 w -> permite pular de palavra em palavra pra frente (início da palavra, primeira letra)
 b -> permite pular de palavra em palavra pra trás (início da palavra, primeira letra)
 e -> permite pular de palavra em palavra pra frente (final de palavra, ultima
 letra)
 ge -> ultima letra da palavra de trás
-
+f{letra} -> apertando f e a letra "c" por exemplo, eu iria navegar entre todas as letras "c"
+~ -> torna o caracter maiusculo e anda uma casa pra frente
+$ -> move para o final da linha.
+g_ -> move para um caracter não-vazio no final de uma linha
+CTRL+D -> move muitas linhas pra baixo
+CTRL+U -> move muitas linhas pra cima
 
 ### Copiar e Colar 
 
-y -> no Visual Mode, quando selecionar o texto ele vai Copiar
+y -> no Visual Mode, quando selecionaR O TEXTO ELe vai Copiar
 p -> mesma situação de cima, com o texto copiado ele vai colar
 
-### Pesquisar 
+### Pesquisar
 
-No Normal mode, só digitar "/{oque quero pesquisar}".
+No modo normal, é só digitar /{oque quer pesquisar}.
+
+
+
+
+
 
