@@ -32,8 +32,5 @@ p -> mesma situação de cima, com o texto copiado ele vai colar
 
 No modo normal, é só digitar /{oque quer pesquisar}.
 
-
-
-
-
-
+  const victor = "de lexsa";
+  console.log(victor);
