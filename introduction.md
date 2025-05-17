@@ -14,4 +14,16 @@ wwww ==> v   v v  v   v
          word. is two words
            /
           /
-      text in your editor 
+      text in your editor
+
+## Insert mode 
+
+É o modo que tem como digitar as parada tudo
+
+## Normal mode
+
+É o modo que edita texto, apaga, navega pelas letras, arquivos e tudo mais
+
+## Visual mode
+
+É o modo que tem como selecionar texto e editar também 
