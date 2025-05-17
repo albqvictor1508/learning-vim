@@ -21,6 +21,7 @@ $ -> move para o final da linha.
 g_ -> move para um caracter não-vazio no final de uma linha
 CTRL+D -> move muitas linhas pra baixo
 CTRL+U -> move muitas linhas pra cima
+NUM+h ou l -> escolhe a quantidade de casas que você quer andar pros dois lados
 
 ### Copiar e Colar 
 
