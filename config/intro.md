@@ -11,3 +11,5 @@ Arquivo principal para configuração do neovim, onde vamo configurar em lua
   vim.opt.tabstop = 2
 
 Config inicial do neovim, o require pegando configurações do lazy vim e o resto config é personalizada setando o tamanho de tabs do neovim
+
+- Executando **`source %`** as configs são adicionadas no neovim
