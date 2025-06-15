@@ -24,3 +24,7 @@ comando "c/{oque quiser}", não entendi oque ele faz direito, mas ta suave.
 (teste de c e v dentro do parenteses)
 
 - Nesse texto de cima, "c i b" apaga tudo que tá entre parênteses, e "v i b" seleciona tudo, acredito que o "c" e o "d" podem ser usado pra apagar texto sem ter que selecionar
+
+"teste de apagar a linha toda"
+
+utilizando "dd" apaga toda a linha
