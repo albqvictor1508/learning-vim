@@ -32,3 +32,5 @@ utilizando "dd" apaga toda a linha
 #### Some shortcuts
 
   - u : desfaz oq ta sendo feito, igual o ctrl + Z;
+  - I : vai pro inicio da linha
+  - A : vai pro final da linha 
