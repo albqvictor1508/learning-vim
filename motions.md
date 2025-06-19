@@ -34,3 +34,8 @@ utilizando "dd" apaga toda a linha
   - u : desfaz oq ta sendo feito, igual o ctrl + Z;
   - I : vai pro inicio da linha
   - A : vai pro final da linha 
+  - dd : deleta toda a linha 
+  - yy : copia toda a linha
+  - shift p : cola embaixo 
+
+vou colocando os shortcut q eu lembrar
