@@ -28,3 +28,7 @@ comando "c/{oque quiser}", não entendi oque ele faz direito, mas ta suave.
 "teste de apagar a linha toda"
 
 utilizando "dd" apaga toda a linha
+
+#### Some shortcuts
+
+  - u : desfaz oq ta sendo feito, igual o ctrl + Z;
